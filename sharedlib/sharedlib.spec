@@ -1,0 +1,1 @@
+@ stdcall diff(long long)
